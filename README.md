@@ -2,7 +2,7 @@ test!
 ====
 hallo
 
-nochmal ha�llo
+nochmal hallo
 wie gehts?
 
 
